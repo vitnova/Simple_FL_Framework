@@ -1,0 +1,10 @@
+{
+	"target_server": "127.0.0.1:9801",
+	"self_client": "127.0.0.1:9802",
+	"clients": [
+		"127.0.0.1:9802"
+	],
+	"server_port": 9801,
+	"client_port": 9802,
+	"debug": false
+}
